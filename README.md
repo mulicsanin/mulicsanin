@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mulicsanin
+- 👋 Hi, I’m Mulić Sanin
 - 👀 Student at Faculty of Information Technology 3/3
 - SQL Server, C++, C#, learning .NET and Angular 
 - HTML, CSS, JS, REACT and upgrading
